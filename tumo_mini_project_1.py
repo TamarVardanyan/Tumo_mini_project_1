@@ -1,5 +1,4 @@
 
-
 import random
 templets=int(input('Please chose temlets 1 , 2, or 3: '))
 numbers=input('Enter 2 numbers: ')
